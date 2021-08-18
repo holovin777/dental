@@ -5,7 +5,7 @@ import styles from '../styles/navbar.module.css'
 export default function Navbar() {
   return (
     <nav className={styles.navbar}>
-      <Image src="/images/tooth.svg" height={30} width={30} alt="logo"/>
+      <Image src="/images/tooth.svg" height={30} width={30} alt="logo" />
       Dental
     </nav>
   )

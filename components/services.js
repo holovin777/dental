@@ -12,7 +12,7 @@ export default function Services() {
         <div className={styles.card}>
           <div className={styles.cardImage}>
             <Image
-              src="/images/services/service1.png" alt="Picture of the author"
+              src="/images/services/service1.png"
               alt="Service 1 picture"
               width={400}
               height={400}
@@ -25,7 +25,7 @@ export default function Services() {
         <div className={styles.card}>
           <div className={styles.cardImage}>
             <Image
-              src="/images/services/service2.png" alt="Picture of the author"
+              src="/images/services/service2.png"
               alt="Service 2 picture"
               width={400}
               height={400}
@@ -38,7 +38,7 @@ export default function Services() {
         <div className={styles.card}>
           <div className={styles.cardImage}>
             <Image
-              src="/images/services/service3.png" alt="Picture of the author"
+              src="/images/services/service3.png"
               alt="Service 3 picture"
               width={400}
               height={400}
@@ -51,7 +51,7 @@ export default function Services() {
         <div className={styles.card}>
           <div className={styles.cardImage}>
             <Image
-              src="/images/services/service4.png" alt="Picture of the author"
+              src="/images/services/service4.png"
               alt="Service 4 picture"
               width={400}
               height={400}
@@ -64,7 +64,7 @@ export default function Services() {
         <div className={styles.card}>
           <div className={styles.cardImage}>
             <Image
-              src="/images/services/service5.png" alt="Picture of the author"
+              src="/images/services/service5.png"
               alt="Service 5 picture"
               width={400}
               height={400}
@@ -77,7 +77,7 @@ export default function Services() {
         <div className={styles.card}>
           <div className={styles.cardImage}>
             <Image
-              src="/images/services/service6.png" alt="Picture of the author"
+              src="/images/services/service6.png"
               alt="Service 6 picture"
               width={400}
               height={400}
