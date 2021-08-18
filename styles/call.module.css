@@ -1,0 +1,24 @@
+.call {
+  display: flex;
+  justify-content: flex-end;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+.call > .phone {
+  padding: 12px;
+  animation-name: phone;
+  animation-delay: 5s;
+  animation-duration: 1s;
+}
+
+@keyframes phone {
+  0% {
+  }
+  50% {
+    transform: rotate(180deg);
+  }
+  100% {
+  }
+}

@@ -1,0 +1,17 @@
+.navbar {
+  text-align: center;
+  width: 100%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  opacity: 80%;
+  z-index: +1;
+}
+
+.brand {
+  padding: 10px;
+  font-size: 2rem;
+}

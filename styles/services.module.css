@@ -1,0 +1,80 @@
+.title {
+  font-size: 40px;
+  text-align: center;
+  animation-name: title;
+  animation-duration: 8s;
+}
+
+.subTitle {
+  font-size: 30px;
+  color: #625DE0;
+  text-align: center;
+  animation-name: subTitle;
+  animation-duration: 2s;
+}
+
+.cardList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.cardText {
+  text-align: center;
+}
+
+.cardList > .card {
+  padding: 20px;
+  margin: 20px;
+  animation-name: card;
+  animation-duration: 5s;
+}
+
+.cardImage {
+  background: #FFFFFF;
+  border-radius: 50%;
+  animation-name: cardImage;
+  animation-duration: 7s;
+}
+
+@keyframes title {
+  0% {
+    opacity: 0%;
+  }
+  50% {
+  }
+  100% {
+  }
+}
+
+@keyframes subTitle {
+  0% {
+    font-size: 220px;
+    opacity: 0%;
+  }
+  50% {
+  }
+  100% {
+  }
+}
+
+@keyframes card {
+  0% {
+    opacity: 0%;
+  }
+  50% {
+    opacity: 20%;
+  }
+  100% {
+  }
+}
+
+@keyframes cardImage {
+  0% {
+  }
+  50% {
+    border-radius: 20%;
+  }
+  100% {
+  }
+}
