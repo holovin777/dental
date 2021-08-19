@@ -5,7 +5,7 @@ export default function Services() {
   return (
     <>
       <div>
-        <p className={styles.title}>LA NOSTRA GAMMA DI SERVIZI DI CURA DENTALE</p>
+        <p className={styles.title}>I NOSTRI SERVIZI DI CURA DENTALE</p>
         <p className={styles.subTitle}>ILLUMINIAMO IL TUO SORRISO!</p>
       </div>
       <div className={styles.cardList}>
