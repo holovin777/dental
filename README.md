@@ -1,6 +1,6 @@
 # Dental
 ```bash
-vim env.local
+vim .env.local
 ```
 ```javascript
 NEXT_PUBLIC_DR_NAME=Dental
