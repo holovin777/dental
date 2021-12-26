@@ -1,5 +1,5 @@
 # Dental
-[Example](https://dental.holovin.com) italy progect
+[Example](https://dental.holovin.com) italy project
 ```bash
 vim .env.local
 ```
